@@ -1,2 +1,6 @@
 # testRepo
-# test local git add and push
+## test local git add and push
+**bold text**
+1. first
+2. second
+3. third
